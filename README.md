@@ -3,6 +3,7 @@
 Flight Radar App is a web application built using React and Redux, designed to provide real-time tracking of flights just for selected area (Turkiye). It utilizes Leaflet for interactive maps, Moment.js for date formatting, and integrates with RapidAPI for fetching flight data.
 
 ## GIF
+![311432383-ec6d7e2e-a78f-4808-b6bb-09a3f188aa33](https://github.com/SakirParlakbileker/Flight-Radar-App-Redux-Toolkit-Thunk/assets/147662891/c74858bf-c4b4-4896-8c34-53f153b7dcf5)
 
 
 
