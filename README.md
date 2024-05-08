@@ -4,7 +4,7 @@ Flight Radar App is a web application built using React and Redux, designed to p
 
 ## GIF
 
-![Screen_Recording_2024-03-09_at_10_31_47_AdobeExpress-ezgif com-optimize](https://github.com/tubayapa/Flight-Radar-Redux-Toolkit-Thunk/assets/147662888/ec6d7e2e-a78f-4808-b6bb-09a3f188aa33)
+
 
 
 ## Features
